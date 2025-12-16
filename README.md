@@ -36,7 +36,7 @@ Visualization: Power BI (optional integration)
 │   ├── gold/           # View definitions for Fact & Dimension tables
 │   └── init_database.sql
 ├── docs/               # Architecture diagrams and data dictionary
-└── README.md
+└── README.md 
 ```
 ---
 
@@ -54,6 +54,6 @@ This project was built as a portfolio piece to demonstrate Data Engineering comp
 
 It was heavily inspired by the amazing work of Baraa Salkini (DataWithBaraa). His tutorials and guidance on modern data warehousing concepts were instrumental in shaping the architecture and best practices applied here.
 
-YouTube Channel: Data With Baraa
+YouTube Channel:[ Data With Baraa]( https://www.youtube.com/@DataWithBaraa)
 
 Original Concept: SQL Data Warehouse from Scratch
