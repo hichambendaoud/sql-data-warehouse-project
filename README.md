@@ -27,7 +27,8 @@ Data Modeling: Star Schema (Facts & Dimensions)
 Visualization: Power BI (optional integration)
 
 📂 Project Structure
-
+```plaintext
+.
 ├── datasets/           # Raw CSV files (ERP & CRM data)
 ├── scripts/
 │   ├── bronze/         # DDL & Stored Procedures for raw data ingestion
@@ -36,7 +37,8 @@ Visualization: Power BI (optional integration)
 │   └── init_database.sql
 ├── docs/               # Architecture diagrams and data dictionary
 └── README.md
-
+```
+---
 
 📊 Key Features
 
